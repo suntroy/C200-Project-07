@@ -1,4 +1,4 @@
-# Project Name
+# A Click of God
 This is my final project for MSCH-C220 in Fall 2025!
 
 ## Theme
