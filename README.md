@@ -26,6 +26,18 @@ Hand image is originally "Male hand with index finger pointing to something" by 
 
 All other sprites were created by Sunny Troyer using Piskel (https://www.piskelapp.com/p/create/sprite/)
 
+Fonts used:
+* Pixelout by ilhamtaro on DaFont (https://www.dafont.com/pixelout.font)
+
+* Pixelmix by Andrew Tyler on DaFont (https://www.dafont.com/pixelmix.font)
+
+Sound effects used:
+* Tinnitus by freesound_community (original sound artist: Klangkobold on FreeSound) on Pixabay (https://pixabay.com/sound-effects/tinnitus-7048/)
+
+* Explosion Sound Effect by DRAGON-STUDIO on Pixabay (https://pixabay.com/sound-effects/explosion-sound-effect-425455/)
+
+* All other sound effects made by Sunny Troyer using ChipTone (https://sfbgames.itch.io/chiptone)
+
 ## Future Development COMPLETE THISSSSSSSSSSSSSSSSSSs
 
 # Created by: Sunny Troyer
