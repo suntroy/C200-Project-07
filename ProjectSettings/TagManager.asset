@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - background
+  - music
+  - confetti
+  - bunch
+  - HC
+  - human
   layers:
   - Default
   - TransparentFX
