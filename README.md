@@ -9,6 +9,8 @@ Keep clicking, and experience the whole game to its completion!
 
 ## What did you struggle with (or what surprised you?)
 Since the original repository was set up in 3D, it did take me a moment at the beginning of the project's development to figure out how to switch it back. After watching some previous videos and reading on Unity's website, I was able to figure it out. 
+DOTween took a minute to understand how to install; the instructions were a bit vague. I ended up not using it as much as I intended, since I would need couroutines for it to work with my code. While I'm always willing to learn new coding concepts (I do it a lot as a Computer Science major), the game development time crunch made it less enticing. 
+I knew the idea behind animating the people to move on their own, but realized along the way I'd have to take precautions to make sure they didn't walk off screen or into the background. It took a minute to get that to work!
 
 ## Implementation COMPLETE THISSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Features
