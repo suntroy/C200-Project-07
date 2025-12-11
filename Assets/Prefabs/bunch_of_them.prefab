@@ -51,6 +51,7 @@ MonoBehaviour:
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"h3","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"h4","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"h5","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"hat","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 8221425174207459726, guid: 9a056c265847d5b4a8135ca8f3623e53, type: 3}
@@ -58,6 +59,7 @@ MonoBehaviour:
     - {fileID: 7850789573569814414, guid: 41cefed780e212343aef0e1b9e26e53c, type: 3}
     - {fileID: 234533163502578600, guid: cc574e654d54238458b9788071f66662, type: 3}
     - {fileID: 3420777219675697470, guid: dfed99555d4399a4b84bf87a726932b5, type: 3}
+    - {fileID: 6239816226736646472, guid: 2dcb47d28f5d5c145aa54b204c018ff8, type: 3}
 --- !u!114 &7551734821583377280
 MonoBehaviour:
   m_ObjectHideFlags: 0
