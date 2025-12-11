@@ -2,7 +2,7 @@
 This is my final project for MSCH-C220 in Fall 2025!
 
 ## Theme
-When I heard "one button," my mind immediately went to clicker games. I used what I remembered from when I last played Cookie Clicker (https://orteil.dashnet.org/cookieclicker/) and Stimulation Clicker (https://neal.fun/stimulation-clicker/) as inspiration. 
+Our theme for this project was "one button." When I heard "one button," my mind immediately went to clicker games. I used what I remembered from when I last played Cookie Clicker (https://orteil.dashnet.org/cookieclicker/) and Stimulation Clicker (https://neal.fun/stimulation-clicker/) as inspiration. 
 
 ## Game Play
 Keep clicking, and experience the whole game to its completion!
@@ -10,16 +10,24 @@ Keep clicking, and experience the whole game to its completion!
 ## What did you struggle with (or what surprised you?)
 Since the original repository was set up in 3D, it did take me a moment at the beginning of the project's development to figure out how to switch it back. After watching some previous videos and reading on Unity's website, I was able to figure it out. 
 
-DOTween took a minute to understand how to install; the instructions were a bit vague. I ended up not using it as much as I intended, since I would need couroutines for it to work with my code. While I'm always willing to learn new coding concepts (I do it a lot as a Computer Science major), the game development time crunch made it less enticing. 
+DOTween took a minute to understand how to install; the instructions were a bit vague. 
 
 I knew the idea behind animating the people to move on their own, but realized along the way I'd have to take precautions to make sure they didn't walk off screen or into the background. It took a minute to get that to work!
 
 ## Implementation COMPLETE THISSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-Features
-Assets, or resources used
+Goals that activate based on click score
+An event that activates automatic score increases
+Confetti created via particle systems
+Sprites that randomly move within a designated portion of the screen
+Sound effects for clicking button, getting confetti, or exploding something
+Background and main menu music
+Gameplay similar to a clicker game
+Animation executed through random human motion, and DOTween of text and background
+A main menu
+Game UI through a goal/goal description, button, and click score
 
-## Special Focus COMPLETE THISSSSSSSSSSSSSSSSS
-What is your special focus? What did you do for it? How would you rate your own effort? 1-5. (I will agree or disagree with this sentiment, but I want to know what you thought)
+## Special Focus
+While I tried to put good effort into all aspects of this project, I would definitely say my special focus was art. I created nearly all the sprites (the construction hat and hand on the main menu were pixelized images made through Photoshop). I'd rate my effort as a 3. There are some sprites, like the background and houses, that I am pretty proud of! However, the people with very light and very dark skin tones are difficult to see in some places, and the "click factory" also looks a bit wonky. 
 
 ## References
 Main menu music is "Potential" by 1000 Handz on FreeMusicArchive (CC BY) (https://freemusicarchive.org/music/1000-handz/cc-by-free-to-use-ambientbackground-scores/potential/)
@@ -51,6 +59,6 @@ Sound effects used:
 
 * Add fade in/out for text and background images (requires DOTween and couroutines)
 
-* Add more events overall
+* Add time passing and weather events
 
 # Created by: Sunny Troyer
