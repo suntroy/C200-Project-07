@@ -10,6 +10,10 @@ Keep clicking, and experience the whole game to its completion!
 ## What did you struggle with (or what surprised you?)
 Since the original repository was set up in 3D, it did take me a moment at the beginning of the project's development to figure out how to switch it back. After watching some previous videos and reading on Unity's website, I was able to figure it out. 
 
+DOTween took a minute to understand how to install; the instructions were a bit vague. I ended up not using it as much as I intended, since I would need couroutines for it to work with my code. While I'm always willing to learn new coding concepts (I do it a lot as a Computer Science major), the game development time crunch made it less enticing. 
+
+I knew the idea behind animating the people to move on their own, but realized along the way I'd have to take precautions to make sure they didn't walk off screen or into the background. It took a minute to get that to work!
+
 ## Implementation COMPLETE THISSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Features
 Assets, or resources used
@@ -19,6 +23,8 @@ What is your special focus? What did you do for it? How would you rate your own 
 
 ## References
 Main menu music is "Potential" by 1000 Handz on FreeMusicArchive (CC BY) (https://freemusicarchive.org/music/1000-handz/cc-by-free-to-use-ambientbackground-scores/potential/)
+
+Daytime and nighttime music are created by Sunny Troyer on SoundTrap (soundtrap.com/), with loops from FreeSound (freesound.org/). 
 
 Construction hat image is originally the middle image of "Yellow construction hard hat from different angles isolated on transparent background. 3D rendering" by HTGanzo on Adobe Stock (https://stock.adobe.com/images/yellow-construction-hard-hat-from-different-angles-isolated-on-transparent-background-3d-rendering/588902899?prev_url=detail)
 
@@ -38,6 +44,13 @@ Sound effects used:
 
 * All other sound effects made by Sunny Troyer using ChipTone (https://sfbgames.itch.io/chiptone)
 
-## Future Development COMPLETE THISSSSSSSSSSSSSSSSSSs
+## Future Development
+* Fix visual bugs (where people walk on top of each other)
+
+* Create better people sprites with more contrast (lighter people were difficult to see, darker people had obscure faces)
+
+* Add fade in/out for text and background images (requires DOTween and couroutines)
+
+* Add more events overall
 
 # Created by: Sunny Troyer
