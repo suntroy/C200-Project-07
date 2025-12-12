@@ -14,16 +14,25 @@ DOTween took a minute to understand how to install; the instructions were a bit 
 
 I knew the idea behind animating the people to move on their own, but realized along the way I'd have to take precautions to make sure they didn't walk off screen or into the background. It took a minute to get that to work!
 
-## Implementation COMPLETE THISSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+## Implementation
 Goals that activate based on click score
+
 An event that activates automatic score increases
+
 Confetti created via particle systems
+
 Sprites that randomly move within a designated portion of the screen
+
 Sound effects for clicking button, getting confetti, or exploding something
+
 Background and main menu music
+
 Gameplay similar to a clicker game
+
 Animation executed through random human motion, and DOTween of text and background
+
 A main menu
+
 Game UI through a goal/goal description, button, and click score
 
 ## Special Focus
